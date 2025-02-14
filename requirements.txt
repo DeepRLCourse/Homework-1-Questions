@@ -4,3 +4,4 @@ pygame
 matplotlib
 seaborn
 notebook
+tensorboard
